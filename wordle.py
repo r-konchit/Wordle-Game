@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 """
-A quick approximation of wordle for you to mess with to get a sense about how
+A quick approximation of wordle for to mess with to get a sense about how
 the rules work.
 """
 

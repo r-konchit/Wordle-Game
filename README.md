@@ -1,11 +1,8 @@
-# Homework 2: Design Document
-
-* author: *Ron Konchitsky*
-* date: February 21, 2025
+## author: *Ron Konchitsky*
 
 ## introduction
 
-This project is essentially a copy of the Worlde game.
+This project is essentially a copy of the Wordle game.
 
 ## function 1:score_guess(char *secret, char *guess, char *result)
 
